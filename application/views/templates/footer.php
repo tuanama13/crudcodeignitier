@@ -1,7 +1,7 @@
 		</div>
 		<!-- end container -->
 		<!-- Footer -->
-		<footer class="page-footer font-small bg-light" style="margin-top: 20px">
+		<footer class="page-footer fixed-bottom font-small bg-light" style="margin-top: 20px">
 		<div class="container">
 			<!-- Copyright -->
 			<div class="footer-copyright text-center py-3">© 2018 Copyright:
