@@ -110,7 +110,7 @@
 
 			$this->form_validation->set_rules('title', 'Title', 'required');
 			$this->form_validation->set_rules('body', 'Body', 'required');
-			if ($this->form_validation->run() ==+ FALSE){
+			if ($this->form_validation->run() === FALSE){
 				$this->load->view('templates/header');
 				$this->load->view('posts/create', $data);
 				// $this->load->view('posts/ad');
